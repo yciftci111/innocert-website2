@@ -1,10 +1,11 @@
 # InnoCert website
 
-Deze versie bevat een zelfstandige `index.html` met alle CSS ingebouwd.
+Dit is een werkende statische website.
 
-## GitHub Pages
-1. Zet `index.html` in de hoofdmap/root van je repository.
+## Gebruik
+1. Upload `index.html` naar de root van je GitHub repository.
 2. Ga naar Settings > Pages.
-3. Kies Deploy from branch.
-4. Kies branch `main` en folder `/root`.
-5. Sla op.
+3. Kies branch `main` en folder `/root`.
+4. Sla op.
+
+Belangrijk: het bestand moet exact `index.html` heten en niet in een extra submap staan.
